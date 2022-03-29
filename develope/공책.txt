@@ -1,0 +1,18 @@
+document - element
+
+html = hyper text(링크로 움직인다) markup(표시) language
+
+tag를 markup(표기)
+
+DOCtype document type
+
+attribute = 대신해서 나타내는것
+
+<p> tag 줄바꿈 단락 
+
+horizontal 
+
+lt = less than = <
+
+gt = greater than = >
+
