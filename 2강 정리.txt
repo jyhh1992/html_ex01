@@ -1,0 +1,18 @@
+DOM
+document object model
+
+html
+head 		body
+title meta	div
+
+video controls가 있어서 제어버튼 생성
+autoplay 즉시 자동 재성
+
+
+semantic 의미적인
+
+문서 구조화를 하는이유 검색엔진이 좋아하는 웹페이지를 작성하기위해서
+
+웹디자이너 웹퍼블리셔 웹프로그래머
+
+form (양식) 중요하다
