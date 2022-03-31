@@ -1,5 +1,27 @@
+https://naver.me/IgYuC4pJ
+
 overiding
 
 css 적용하는법이 여러개가 있기에 거기에서도 우선순위에 따라서 적용하게된다
 
 UI -> storyboard
+
+React -> micro service architecture(msa) 작은 단위 서비스 프로그래밍
+
+jsp - html 서버에서 전체 코드를 받아와서 수정
+불필요한 코드를 받아와야해서 작업이 능률적이지 못 하다
+매번 parsing을 해줘야 해서 시각적인 효과를 보기 힘들다
+
+ajax
+변경할 html 파트만 가져와서 부분적으로 수정이 가능
+
+spa single page app
+브라우저 화면요소들을 jsp갯수대로 만들어야 하는 기존 방식에서
+page를 하나로 만들고 바뀐요소만 보여주는 방식으로 설계
+
+react
+ui 컴포넌트를 하나씩 만들어서 조립하는 방식
+컴포넌트 - html/css/javascript/reactliberayfunction
+
+html css 는 logic 프로그래밍보다는 화면구성요소 프로그래밍
+javascript가 프로그래밍 언어
