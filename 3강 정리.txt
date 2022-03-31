@@ -1,0 +1,5 @@
+overiding
+
+css 적용하는법이 여러개가 있기에 거기에서도 우선순위에 따라서 적용하게된다
+
+UI -> storyboard
