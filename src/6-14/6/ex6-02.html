@@ -7,6 +7,7 @@
 function over(obj) {
 	obj.src="media/banana.png";
 }
+// obj는 매개변수
 function out(obj) {
 	obj.src="media/apple.png";
 }
@@ -16,7 +17,9 @@ function out(obj) {
 <h3>마우스 올려 보세요</h3>
 <hr>
 <img src="media/apple.png" alt="이미지" 
-		onmouseover="over(this)"
+		onmouseover="over(this)" 
 		onmouseout="out(this)">
+		<!-- this는 argument(인자) 
+		tag는 객체로 인식 -->
 </body>
 </html>

@@ -9,3 +9,21 @@ html, python, javascript, visual basic
 컴파일러 언어 - C,java,C#
 compile(기계어번역)실행
 작성 - 번역 - 실행
+
+초기의 웹페이지는 html 문서
+동적인 효과를 주기위해서 javascript사용
+
+브라우저 제어 - 브라우저 정보를 다루는 것도 javascript
+
+nodejs - javascript로 만들어진 서버를 작성하기윈한 framework
+
+javascript는 데이터 타입을 없다고 본다 (명확한 구분은 요하지않는다)
+
+매개변수 - 외부에서 입력된 데이터를 내부로 데이터를 저장
+
+javascript의 입력은 prompt함수이다
+
+변수선언
+var
+let
+const
