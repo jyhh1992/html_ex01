@@ -26,4 +26,4 @@ javascript의 입력은 prompt함수이다
 변수선언
 var
 let
-const
+const (사실은 변수선언은 아니다)
